@@ -40,7 +40,7 @@ proc unblock() {
 	gImbar_opt=PARAM_gImbar
 	gSK_E2bar_opt=PARAM_gSK_E2bar
 	gK_Tstbar_opt=PARAM_gK_Tstbar
-	gCa_LVAstbar_opt=PARAM_gCa_LVAsshiftbar
+	gCa_LVAstbar_opt=PARAM_gCa_LVAstbar
 	gCa_HVAbar_opt=PARAM_gCa_HVAbar
 	gNa_Et2_opt=PARAM_Nap_Et2
 	gNaTa_t_soma_opt=PARAM_NaTa_t_soma
